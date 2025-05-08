@@ -8,7 +8,7 @@
     android:background="@color/white"
     android:padding="16dp">
 
-    <!-- Giriş ekranı -->
+
     <TextView
         android:id="@+id/textViewInput"
         android:layout_width="0dp"
@@ -25,7 +25,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <!-- 1. Satır -->
+
     <Button
         android:id="@+id/btn7"
         android:layout_width="0dp"
@@ -68,7 +68,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintWidth_percent="0.3"/>
 
-    <!-- 2. Satır -->
+
     <Button
         android:id="@+id/btn4"
         android:layout_width="0dp"
@@ -111,7 +111,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintWidth_percent="0.3"/>
 
-    <!-- 3. Satır -->
+
     <Button
         android:id="@+id/btn1"
         android:layout_width="0dp"
@@ -154,7 +154,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintWidth_percent="0.3"/>
 
-    <!-- 4. Satır -->
+
     <Button
         android:id="@+id/btn0"
         android:layout_width="0dp"
@@ -197,7 +197,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintWidth_percent="0.3"/>
 
-    <!-- Eşittir Butonu -->
+    
     <Button
         android:id="@+id/btnEquals"
         android:layout_width="0dp"
